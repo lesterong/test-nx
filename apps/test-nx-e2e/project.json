@@ -1,0 +1,9 @@
+{
+  "name": "test-nx-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/test-nx-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["test-nx"],
+  "// targets": "to see all targets run: nx show project test-nx-e2e --web",
+  "targets": {}
+}
